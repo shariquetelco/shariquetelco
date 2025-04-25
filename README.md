@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
 <h2 align="center">
-  # 👋 Hi, I’m @shariquetelco <br>
-  # 👀 I’m interested in Coding for Signal and Communication <br>
-  # 🌱 I’m currently learning anything and everything <br>
-  # 💞️ I’m looking to collaborate on 5G and 6G
+  # 👀 I’m passionate about coding in Signal Processing and Communications <br>
+  # 🌱 I’m currently exploring everything from SDR to AI-powered wireless systems <br>
+  # 💞️ I’m open to collaborations in 5G, 6G, and NTN Satellite Communication <br>
+  # 😄 Fun Fact: I believe nothing is truly secure — so yes, I pentest too! <br>
 </h2>
 
 
