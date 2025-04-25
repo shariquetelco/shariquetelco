@@ -38,19 +38,19 @@
 
 <p align="left"> <a href="https://twitter.com/shariqueam" target="blank"><img src="https://img.shields.io/twitter/follow/shariqueam?logo=twitter&style=for-the-badge" alt="shariqueam" /></a> </p>
 
-- 🔭 I’m currently working on [5G-NTN Coding Signal for Satellites](https://github.com/shariquetelco)
+- 🔭 I’m currently working on **[5G-NTN Coding Signal for Satellites](https://github.com/shariquetelco)**
 
 - 🌱 I’m currently learning **Security**
 
-- 👨‍💻 All of my open source projects are available at [https://github.com/shariquetelco](https://github.com/shariquetelco)
+- 👨‍💻 All of my open source projects are available at **[https://github.com/shariquetelco](https://github.com/shariquetelco)**
 
-- 📝 I regularly write articles on [https://medium.com/@eshariq.am](https://medium.com/@eshariq.am)
+- 📝 I regularly write articles on **[https://medium.com/@eshariq.am](https://medium.com/@eshariq.am)**
 
 - 💬 Ask me about **5G-NTN Security**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shariquetelecomexpert/**
 
-- 📄 Know about my experiences [https://sites.google.com/view/ahmad-sharique?usp=sharing](https://sites.google.com/view/ahmad-sharique?usp=sharing)
+- 📄 Know about my experiences **[https://sites.google.com/view/ahmad-sharique?usp=sharing](https://sites.google.com/view/ahmad-sharique?usp=sharing)**
 
 ### Blogs posts
 ### 📝 Latest Blog Posts
