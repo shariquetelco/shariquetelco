@@ -40,13 +40,11 @@
 
 - 🔭 I’m currently working on **[5G-NTN Coding Signal for Satellites](https://github.com/shariquetelco)**
 
-- 🌱 I’m currently learning **Security**
+- 🌱 I’m currently learning 💬 **5G - 6G - NTN - TN - Security**
 
 - 👨‍💻 All of my open source projects are available at **[https://github.com/shariquetelco](https://github.com/shariquetelco)**
 
 - 📝 I regularly write articles on **[https://medium.com/@eshariq.am](https://medium.com/@eshariq.am)**
-
-- 💬 Ask me about **5G-NTN Security**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shariquetelecomexpert/**
 
