@@ -1,0 +1,16 @@
+name: Latest Medium Blogs
+
+on:
+  schedule:
+    - cron: '0 * * * *' # updates every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest Medium blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@eshariq.am"
