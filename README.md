@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
-<h3 align="left">
-  # 👀 I’m passionate about coding in Signal Processing and Communications <br>
-  # 🌱 I’m currently exploring everything from SDR to AI-powered wireless systems <br>
-  # 💞️ I’m open to collaborations in 5G, 6G, and NTN Satellite Communication <br>
-  # 😄 Fun Fact: I believe nothing is truly secure — so yes, I pentest too! <br>
-</h3>
+<h2 align="left">
+  👀 Passionate about coding in <br> 
+  ![Signal Processing](https://img.shields.io/badge/Signal_Processing-blue) 
+  ![Telecom](https://img.shields.io/badge/Telecom-🛰️_NTN-green) <br><br> 
+  
+  🌱 Exploring <br>
+  ![AI Wireless](https://img.shields.io/badge/AI_Wireless-purple) 
+  ![SDR](https://img.shields.io/badge/SDR_Labs-orange) <br><br>
+
+  💞️ Collaborating on <br>
+  ![5G](https://img.shields.io/badge/5G-red) 
+  ![6G](https://img.shields.io/badge/6G-yellowgreen) 
+  ![NTN](https://img.shields.io/badge/Satellite_Communication-black) <br><br>
+
+  😄 Fun Fact: I believe nothing is truly secure — so yes, I pentest too! 🔐  
+</h2>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
