@@ -2,7 +2,7 @@
 <h2 align="left">
 ### 👀 Passionate about coding in  
 ![Signal Processing](https://img.shields.io/badge/Signal_Processing-blue)  
-![Telecom](https://img.shields.io/badge/Telecom_NTN-green)
+![Telecom](https://img.shields.io/badge/Telecom-🛰️_NTN-green)
 
 ### 🌱 Exploring  
 ![AI Wireless](https://img.shields.io/badge/AI_Wireless-purple)  
