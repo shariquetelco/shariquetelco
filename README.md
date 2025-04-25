@@ -53,9 +53,9 @@
 ### Blogs posts
 ### 📝 Latest Blog Posts
 
-- [5G-NTN Security: Understanding the Stack](https://medium.com/@eshariq.am/understanding-tracking-area-code-tac-control-policy-for-stand-alone-5g-private-network-area-c5f7b9e4f69d)
-- [How I Applied AI to SDR](https://medium.com/@eshariq.am/exploring-the-world-of-rfid-hacks-the-flipper-zero-phenomenon-c25ad076edee)
-- [Top Tools for 5G Pentesting](https://medium.com/@eshariq.am/factors-to-consider-when-developing-an-identity-framework-for-metaverse-8a2fe1df020e)
+- [5G-Tracking Area Code TAC](https://medium.com/@eshariq.am/understanding-tracking-area-code-tac-control-policy-for-stand-alone-5g-private-network-area-c5f7b9e4f69d)
+- [Hacks with Flipper](https://medium.com/@eshariq.am/exploring-the-world-of-rfid-hacks-the-flipper-zero-phenomenon-c25ad076edee)
+- [Metaverse Identity Framework](https://medium.com/@eshariq.am/factors-to-consider-when-developing-an-identity-framework-for-metaverse-8a2fe1df020e)
 
 
 ## 🏆 Awards and Achievements
