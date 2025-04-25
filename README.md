@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariquetelco" alt="shariquetelco" /></a> </p>
+
+
 <div align="left" style="background-color:#1e1e1e; padding:15px; border-radius:10px; color:#ffffff;">
   <h2>👀 Passionate about coding in</h2>
   <img src="https://img.shields.io/badge/Signal_Processing-0d6efd?style=flat&logoColor=white" alt="Signal Processing Badge" height="35">
@@ -35,6 +41,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariquetelco" alt="shariquetelco" /></a> </p>
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/shariquetelecomexpert" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariquetelecomexpert" />
+  </a> 
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/shariqueam" target="blank"><img src="https://img.shields.io/twitter/follow/shariqueam?logo=twitter&style=for-the-badge" alt="shariqueam" /></a> </p>
 
