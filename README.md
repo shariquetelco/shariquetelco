@@ -67,6 +67,10 @@
   Read more: [GitHub Blog Announcement](https://github.blog/open-source/social-impact/recipients-open-source-grants-github-sponsors-india/)
 
 
+  ## You can read more about me and my journey at my website:
+  **[Ahmad Sharique's Journey]**(https://sites.google.com/view/ahmad-sharique?usp=sharing)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shariqueam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariqueam" height="30" width="40" /></a>
