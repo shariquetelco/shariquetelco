@@ -53,8 +53,11 @@
 - 📄 Know about my experiences [https://sites.google.com/view/ahmad-sharique?usp=sharing](https://sites.google.com/view/ahmad-sharique?usp=sharing)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📝 Latest Blog Posts
+
+- [5G-NTN Security: Understanding the Stack](https://medium.com/@eshariq.am/understanding-tracking-area-code-tac-control-policy-for-stand-alone-5g-private-network-area-c5f7b9e4f69d)
+- [How I Applied AI to SDR](https://medium.com/@eshariq.am/exploring-the-world-of-rfid-hacks-the-flipper-zero-phenomenon-c25ad076edee)
+- [Top Tools for 5G Pentesting](https://medium.com/@eshariq.am/factors-to-consider-when-developing-an-identity-framework-for-metaverse-8a2fe1df020e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
