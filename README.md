@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
-
 <h2 align="center">
-  # 👋 Hi, I’m @shariquetelco  
-  # 👀 I’m interested in Coding for Signal and Communication  
-  # 🌱 I’m currently learning anything and everything  
-  # 💞️ I’m looking to collaborate on 5G and 6G</h2>  
+  # 👋 Hi, I’m @shariquetelco <br>
+  # 👀 I’m interested in Coding for Signal and Communication <br>
+  # 🌱 I’m currently learning anything and everything <br>
+  # 💞️ I’m looking to collaborate on 5G and 6G
+</h2>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariquetelco" alt="shariquetelco" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shariqueam" target="blank"><img src="https://img.shields.io/twitter/follow/shariqueam?logo=twitter&style=for-the-badge" alt="shariqueam" /></a> </p>
 
 - 🔭 I’m currently working on [5G-NTN Coding Signal for Satellites](https://github.com/shariquetelco)
 
@@ -22,6 +27,10 @@
 
 - 📄 Know about my experiences [https://sites.google.com/view/ahmad-sharique?usp=sharing](https://sites.google.com/view/ahmad-sharique?usp=sharing)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shariqueam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariqueam" height="30" width="40" /></a>
@@ -36,3 +45,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariquetelco&show_icons=true&locale=en&layout=compact" alt="shariquetelco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariquetelco&show_icons=true&locale=en" alt="shariquetelco" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariquetelco&" alt="shariquetelco" /></p>
