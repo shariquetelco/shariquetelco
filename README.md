@@ -49,8 +49,6 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/shariqueam" target="blank"><img src="https://img.shields.io/twitter/follow/shariqueam?logo=twitter&style=for-the-badge" alt="shariqueam" /></a> </p>
-
 - 🔭 I’m currently working on **[5G-NTN Coding Signal for Satellites](https://github.com/shariquetelco)**
 
 - 🌱 I’m currently learning 💬 **5G - 6G - NTN - TN - Security**
