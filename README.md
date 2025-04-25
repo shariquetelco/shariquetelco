@@ -25,8 +25,8 @@
 <br>
 
 <div align="left" style="background-color:#1e1e1e; padding:15px; border-radius:10px; color:#ffffff;">
-  <h3>😄 Fun Fact</h3>
-  <p>I believe nothing is truly secure — <h2>so yes, I pentest too!<h2> 🔐</p>
+  <h2>😄 Fun Fact</h3>
+  <p>I believe nothing is truly secure — <h3>so yes, I pentest too!<h3> 🔐</p>
 </div>
 
 
