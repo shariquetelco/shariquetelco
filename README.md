@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
 <div align="left" style="background-color:#1e1e1e; padding:15px; border-radius:10px; color:#ffffff;">
-  <h3>👀 Passionate about coding in</h3>
+  <h2>👀 Passionate about coding in</h2>
   <img src="https://img.shields.io/badge/Signal_Processing-0d6efd?style=flat&logoColor=white" alt="Signal Processing Badge">
   <img src="https://img.shields.io/badge/Telecom-🛰️_NTN-198754?style=flat&logoColor=white" alt="Telecom Badge">
 </div>
@@ -8,7 +8,7 @@
 <br>
 
 <div align="left" style="background-color:#2a2a2a; padding:15px; border-radius:10px; color:#ffffff;">
-  <h3>🌱 Exploring</h3>
+  <h2>🌱 Exploring</h2>
   <img src="https://img.shields.io/badge/AI_Wireless-6f42c1?style=flat&logoColor=white" alt="AI Wireless Badge">
   <img src="https://img.shields.io/badge/SDR_Labs-f39c12?style=flat&logoColor=white" alt="SDR Badge">
 </div>
@@ -16,7 +16,7 @@
 <br>
 
 <div align="left" style="background-color:#212529; padding:15px; border-radius:10px; color:#ffffff;">
-  <h3>💞️ Collaborating on</h3>
+  <h2>💞️ Collaborating on</h2>
   <img src="https://img.shields.io/badge/5G-d63384?style=flat&logoColor=white" alt="5G Badge">
   <img src="https://img.shields.io/badge/6G-ffc107?style=flat&logoColor=black" alt="6G Badge">
   <img src="https://img.shields.io/badge/Satellite_Communication-343a40?style=flat&logoColor=white" alt="Satellite Badge">
@@ -26,7 +26,7 @@
 
 <div align="left" style="background-color:#1e1e1e; padding:15px; border-radius:10px; color:#ffffff;">
   <h3>😄 Fun Fact</h3>
-  <p>I believe nothing is truly secure — so yes, I pentest too! 🔐</p>
+  <p>I believe nothing is truly secure — so yes, <h2>I pentest too! <h2> 🔐</p>
 </div>
 <br>
 
