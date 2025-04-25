@@ -59,6 +59,14 @@
 - [How I Applied AI to SDR](https://medium.com/@eshariq.am/exploring-the-world-of-rfid-hacks-the-flipper-zero-phenomenon-c25ad076edee)
 - [Top Tools for 5G Pentesting](https://medium.com/@eshariq.am/factors-to-consider-when-developing-an-identity-framework-for-metaverse-8a2fe1df020e)
 
+
+## 🏆 Awards and Achievements
+
+- **Won the 1st edition of GitHub India Open Source Grants**.  
+  Recognized for contributions to open source projects in India.  
+  Read more: [GitHub Blog Announcement](https://github.blog/open-source/social-impact/recipients-open-source-grants-github-sponsors-india/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shariqueam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariqueam" height="30" width="40" /></a>
