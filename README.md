@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
 <h2 align="left">
-### 👀 Passionate about coding in  
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-blue)  
-![Telecom](https://img.shields.io/badge/Telecom-🛰️_NTN-green)
+<div align="left">
 
+<h3>👀 Passionate about coding in</h3>
+
+<img src="https://img.shields.io/badge/Signal_Processing-blue" alt="Signal Processing Badge">  
+<img src="https://img.shields.io/badge/Telecom-🛰️_NTN-green" alt="Telecom Badge">
+
+</div>
 ### 🌱 Exploring  
 ![AI Wireless](https://img.shields.io/badge/AI_Wireless-purple)  
 ![SDR](https://img.shields.io/badge/SDR_Labs-orange)
