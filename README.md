@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
-<h2 align="left">
+
 <div align="left">
 
 <h3>👀 Passionate about coding in</h3>
-
-<img src="https://img.shields.io/badge/Signal_Processing-blue" alt="Signal Processing Badge">  
+<img src="https://img.shields.io/badge/Signal_Processing-blue" alt="Signal Processing Badge">
 <img src="https://img.shields.io/badge/Telecom-🛰️_NTN-green" alt="Telecom Badge">
 
+<h3>🌱 Exploring</h3>
+<img src="https://img.shields.io/badge/AI_Wireless-purple" alt="AI Wireless Badge">
+<img src="https://img.shields.io/badge/SDR_Labs-orange" alt="SDR Badge">
+
+<h3>💞️ Collaborating on</h3>
+<img src="https://img.shields.io/badge/5G-red" alt="5G Badge">
+<img src="https://img.shields.io/badge/6G-yellowgreen" alt="6G Badge">
+<img src="https://img.shields.io/badge/Satellite_Communication-black" alt="Satellite Badge">
+
+<h3>😄 Fun Fact</h3>
+<p>I believe nothing is truly secure — so yes, I pentest too! 🔐</p>
+
 </div>
-### 🌱 Exploring  
-![AI Wireless](https://img.shields.io/badge/AI_Wireless-purple)  
-![SDR](https://img.shields.io/badge/SDR_Labs-orange)
 
-### 💞️ Collaborating on  
-![5G](https://img.shields.io/badge/5G-red)  
-![6G](https://img.shields.io/badge/6G-yellowgreen)  
-![NTN](https://img.shields.io/badge/Satellite_Communication-black)
-
-### 😄 Fun Fact  
-I believe nothing is truly secure — so yes, I pentest too! 🔐
- 
-</h2>
 
 
 
