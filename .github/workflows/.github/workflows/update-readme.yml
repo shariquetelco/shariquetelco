@@ -1,0 +1,37 @@
+name: Update README with Medium Blogs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs the action daily at midnight UTC
+  push:
+    branches:
+      - main  # Runs the action when changes are pushed to the main branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install Dependencies
+        run: |
+          npm install axios cheerio
+
+      - name: Fetch Latest Blogs from Medium
+        run: |
+          node fetch-medium-blogs.js
+
+      - name: Commit and Push README Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest Medium blogs"
+          git push
