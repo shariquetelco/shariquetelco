@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
-<h2 align="center">
+<h3 align="left">
   # 👀 I’m passionate about coding in Signal Processing and Communications <br>
   # 🌱 I’m currently exploring everything from SDR to AI-powered wireless systems <br>
   # 💞️ I’m open to collaborations in 5G, 6G, and NTN Satellite Communication <br>
   # 😄 Fun Fact: I believe nothing is truly secure — so yes, I pentest too! <br>
-</h2>
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
