@@ -6,9 +6,6 @@
 <!-- Profile Icon + Name + Role -->
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourgithubid" width="120" style="border-radius: 50%;" alt="Sharique Icon" />
-</p>
 
 <h3 align="center">
   Strategy Manager | Defense 5G | NTN | NATO & US DoD
