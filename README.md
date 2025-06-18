@@ -1,6 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shariquetelco/shariquetelco/main/banner.png" alt="Banner" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/shariquetelco/shariquetelco/main/banner1.png" alt="Banner" style="border-radius: 10px;" />
 </p>
 
 <!-- Profile Icon + Name + Role -->
