@@ -8,7 +8,7 @@
 
 
 <h3 align="center">
-  Strategy Manager | Defense 5G | NTN | NATO & US DoD
+  Strategy | Defense 5G | NTN | NATO & US DoD | Security
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
