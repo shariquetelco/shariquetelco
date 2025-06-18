@@ -1,4 +1,18 @@
+<!-- Cover Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shariquetelco/shariquetelco/main/banner.png" alt="Banner" style="border-radius: 10px;" />
+</p>
+
+<!-- Profile Icon + Name + Role -->
 <h1 align="center">Hi 👋, I'm Ahmad Sharique</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/yourgithubid" width="120" style="border-radius: 50%;" alt="Sharique Icon" />
+</p>
+
+<h3 align="center">
+  Strategy Manager | Defense 5G | NTN | NATO & US DoD
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquetelco&label=Profile%20views&color=0e75b6&style=flat" alt="shariquetelco" /> </p>
 
